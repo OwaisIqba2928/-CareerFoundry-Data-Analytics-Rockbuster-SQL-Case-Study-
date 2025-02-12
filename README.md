@@ -9,9 +9,13 @@ As a Data Analyst, I leveraged structured query language (SQL) to extract, clean
 This analysis answers critical business questions, including:
 
 **✅ Customer Insights** – Who are Rockbuster's top customers? Which locations generate the highest revenue?
+
 **✅ Rental Trends** – What are the most rented movies? How do rental patterns vary by region?
+
 **✅ Revenue Analysis** – Which genres contribute the most to total revenue?
+
 **✅ Operational Strategy** – What factors impact rental frequency and revenue growth?
+
 **✅ Market Expansion** – Which cities/countries should Rockbuster target for future growth?
 
 By addressing these questions, the project provides data-driven strategies to enhance Rockbuster’s profitability and competitive edge.
